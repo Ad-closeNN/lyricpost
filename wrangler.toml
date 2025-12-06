@@ -1,0 +1,5 @@
+name = "lyricpost"
+compatibility_date = "2025-12-06"
+
+[assets]
+directory = "./"
