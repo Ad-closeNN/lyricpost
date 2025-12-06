@@ -10,7 +10,7 @@ const NO_LYRICS_FOUND =
 const NO_LYRICS_SELECTED =
     "No lyrics selected<br>You can still type your own lyrics by clicking here :)";
 const SPOTIFY_LOGO =
-    "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg";
+    "http://static.adclosenn.top/icon/svg/Spotify_logo_with_text.svg";
 
 const BACKGROUND_SHADOW_COLOR = "rgba(0, 0, 0, 0.25)";
 const BACKGROUND_SHADOW_BORDER_RADIUS = 24;
